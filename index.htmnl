@@ -58,7 +58,7 @@ A.class1:active {text-decoration: none; color: #27363b; background-color: #fdcea
 <div class="outer">
   <div class="middle">
     <div class="inner">
-<h1 style="font-size:5vw">88<br>  
+<h1> <img src="88surfboards.png" alt="88 Surfboards"> 
 </div>
   </div>
 </div>
